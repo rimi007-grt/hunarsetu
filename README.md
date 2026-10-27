@@ -1,4 +1,4 @@
-# HunarSetu Voice Commons
+# HunarSetu 
 
 A voice-first neighborhood exchange where useful skills are shared through time, not money.
 
